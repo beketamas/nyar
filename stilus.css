@@ -1,0 +1,17 @@
+body{
+    background-image: url("Salzburg1.jpg");
+    background-size: cover;
+}
+
+td{
+    font-size: large;
+    color: red;
+}
+
+.var{
+    width: 500px;
+}
+
+.var2{
+    width: 500px;
+}
